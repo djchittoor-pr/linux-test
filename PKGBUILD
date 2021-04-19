@@ -1,6 +1,6 @@
 # Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
 
-pkgbase=linux
+pkgbase=linux-dan
 pkgver=5.11.15.arch1
 pkgrel=2
 pkgdesc='Linux'
