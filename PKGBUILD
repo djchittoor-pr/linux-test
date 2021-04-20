@@ -59,7 +59,7 @@ prepare() {
 
 build() {
   cd $_srcname
-  make all
+  make -j$((`nproc`+2)) all
 }
 
 _package() {
