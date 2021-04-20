@@ -377,7 +377,7 @@ CONFIG_ACRN_GUEST=y
 # CONFIG_MPILEDRIVER is not set
 # CONFIG_MSTEAMROLLER is not set
 # CONFIG_MEXCAVATOR is not set
-# CONFIG_MZEN is not set
+CONFIG_MZEN=y
 # CONFIG_MZEN2 is not set
 # CONFIG_MPSC is not set
 # CONFIG_MCORE2 is not set
